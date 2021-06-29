@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+# Hyperblog2
+#####  Un blog para este curso de git y github
 
-=======
->>>>>>> 2489401f2fbe6779923649a832456d094c212e4b
-# hyperblog2
-Un blog para este curso de git y github
+*En este curso podemos aprender cosas nuevas que no conociamos a traves de platzi estamos conociendo git y github*
 
+**Gracias a este editor pueedo editar mi readme **
+
+> Estoy probando nuevos estilos de edicion para mi hyperblog
+
+#### Esto es todo
